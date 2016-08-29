@@ -1,0 +1,1 @@
+download data from ftp://ftp.irisa.fr/local/texmex/corpus/iccv2013/
